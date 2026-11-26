@@ -6,11 +6,22 @@ Garth Tiongan | [LinkedIn](www.linkedin.com/in/gartht06) | [Email Me](mailto:gar
 
 ## Contents
 
+1. [Modules](#modules)
+2. [Folder Structure](#folder-structure)
+
 ## Modules
 | # | Folder | Module | Type |
 |---|--------|--------|------|
 | 1 | [COMP5000](comp5000) | Algorithms | Core |
 | 2 | [COMP5001](comp5001) | Database Systems | Core |
 
+## Folder Structure
 
+```
 
+Info
+
+├── README.md    what each document covers and who it is for
+
+```
+ 
